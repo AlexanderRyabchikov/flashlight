@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/skender/AndroidProject/flashlight/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/home/skender/AndroidProject/flashlight/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/skender/AndroidProject/flashlight/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/skender/AndroidProject/flashlight/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/skender/AndroidProject/flashlight/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/flash_button.png",
+        "source": "/home/skender/AndroidProject/flashlight/app/src/main/res/mipmap-xxxhdpi/flash_button.png"
+    }
+]

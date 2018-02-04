@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/skender/AndroidProject/flashlight/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/skender/.android/build-cache/e69a80fd2ff1050fc481a9c28f42e3293dd3cff4/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/skender/AndroidProject/flashlight/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/skender/.android/build-cache/e69a80fd2ff1050fc481a9c28f42e3293dd3cff4/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/skender/AndroidProject/flashlight/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/skender/.android/build-cache/e69a80fd2ff1050fc481a9c28f42e3293dd3cff4/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/skender/AndroidProject/flashlight/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/skender/.android/build-cache/e69a80fd2ff1050fc481a9c28f42e3293dd3cff4/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]
